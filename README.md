@@ -1,4 +1,4 @@
-# mab-debug-impl
+# mab-template-rust
 
 A template to generate [`mab`](https://codeberg.org/sugo/mab) debugging code
 from.
@@ -9,7 +9,7 @@ To use this template, install
 [`cargo-generate`](https://github.com/cargo-generate/cargo-generate), and run:
 
 ```
-cargo generate --git https://codeberg.org/sugo/mab-debug-impl
+cargo generate --git https://codeberg.org/sugo/mab-template-rust
 ```
 
 ## Interaction with mab
