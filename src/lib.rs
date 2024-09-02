@@ -1,5 +1,7 @@
+use std::ffi::c_void;
+
 #[no_mangle]
-extern "C" fn mab_debug_impl(p: *mut std::ffi::c_void) {
+extern "C" fn mab_debug_impl(p: *mut c_void) {
     println!("Pointer offset: {p:#?}");
 }
 
