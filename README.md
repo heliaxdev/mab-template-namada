@@ -15,7 +15,7 @@ cargo generate --git https://codeberg.org/sugo/mab-template-rust
 ## Interaction with mab
 
 To use this template with `mab`, simple run `cargo build --release`, and pass
-the generated `libmab_debug_impl.dylib` to the `MAB_LIB_PATH` environment
+the generated `libmab_template_rust` library to the `MAB_LIB_PATH` environment
 variable.
 
 ## License
