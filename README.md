@@ -9,7 +9,7 @@ To use this template, install
 [`cargo-generate`](https://github.com/cargo-generate/cargo-generate), and run:
 
 ```
-cargo generate --git https://codeberg.org/sugo/mab-template-rust
+cargo generate --git https://github.com/heliaxdev/mab-template-namada
 ```
 
 ## Interaction with mab
