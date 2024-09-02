@@ -1,7 +1,7 @@
-# mab-template-rust
+# mab-template-namada
 
-A template to generate [`mab`](https://codeberg.org/sugo/mab) debugging code
-from.
+A template to generate [`mab`](https://codeberg.org/sugo/mab)
+[Namada](https://github.com/anoma/namada) debugging code from.
 
 ## Template usage
 
